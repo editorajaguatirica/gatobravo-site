@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://editoragatobravo.netlify.com"
 languageCode = "en-us"
-title = "Editora Gato Bravo | Transforme as suas ideias em livros"
+title = "Editora Gato Bravo"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
@@ -33,7 +33,7 @@ disqusShortname = ""
 [menu]
     
   [[menu.main]]
-  name = "Products"
+  name = "Catálogo"
   URL = "products"
   weight = 1
   
@@ -48,13 +48,13 @@ disqusShortname = ""
   weight = 3
   
   [[menu.main]]
-  name = "Contact"
+  name = "Contacto"
   URL = "contact"
   weight = 4
 
   ############# footer menu #############
   [[menu.footer]]
-  name = "Products"
+  name = "Catálogo"
   URL = "products"
   weight = 1
   
@@ -69,53 +69,57 @@ disqusShortname = ""
   weight = 3
   
   [[menu.footer]]
-  name = "Terms & Conditions"
+  name = "Termos e Condições"
   URL = "terms-conditions"
   weight = 4
   
   [[menu.footer]]
-  name = "Contact"
+  name = "Contacto"
   URL = "contact"
   weight = 5
 
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
-home = "Home"
+logo = "images/logoSite.png"
+home = "Início"
+
 # Meta data
-description = "This is meta description"
+description = "Editora Gato Bravo | Transforme as suas ideias em livros"
 author = "Themefisher"
+
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 mapLatitude = "51.5223477"
 mapLongitude = "-0.1622023"
 mapMarker = "images/marker.png"
+
 # Google Analitycs
 googleAnalitycsID = "Your ID"
+
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = "+351 308803682"
+email = "editoragatobravo@gmail.com"
+location = "Lisboa, Portugal | Rio de Janeiro, Brasil"
 # copyright
-copyright = "| @2019 [Themefisher](https://themefisher.com) All Rights Reserved |"
+copyright = "| @2019 [Editora Gato Bravo](https://www.editoragatobravo.pt) Todos os direitos reservados |"
 
   # Preloader
   [params.preloader]
   enable = true
-  preloader = "" # use .png , .svg or .gif format
+  preloader = "images/gatoBravoLogo.png" # use .png , .svg or .gif format
 
   # Product Rating
   # it works with https://rating-widget.com/ , you will get the ID and publicKey after creating your account there.
   [params.rating]
-  enable = true
+  enable = false
   websiteID = "444334"
   publicKey = "811cf0927332bf51f2e12f84608594ac"
 
   # Social Site
   [[params.social]]
   icon = "ti-facebook"
-  link = "#"
+  link = "http://www.fb.com/editoragatobravo"
   
   [[params.social]]
   icon = "ti-twitter-alt"

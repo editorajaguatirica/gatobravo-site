@@ -1,18 +1,17 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Best Beauty Cream For Your Skin"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed dia"
+  title : "Transforme as suas ideias em livros"
+  content : "Publicar nunca foi tão fácil. Encontrar os futuros grandes autores é o desafio da editora Gato Bravo. Apostamos juntos no seu sucesso."
   image : "images/banner.png"
   # button
   button:
     enable : true
-    label : "All Products"
-    link : "products"
+    label : "Recepção de originais"
+    link : "https://share.hsforms.com/1jhfKslF3TgmVXOyFuQGZ3Q3j7ne"
   # demo video
   video:
-    enable : true
+    enable : false
     videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
 ########################## About ##############################
@@ -38,40 +37,60 @@ cta:
 
 ######################## raw material #######################
 material:
-  enable : true
-  title : "Ingredients Of Our Products"
-  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dol."
+  enable : Turmeric
+  title : "Conheça o nosso processo editorial"
+  subtitle : "Veja aqui as etapas que o seu original vai percorrer."
   materialItem:
     # material item loop
-    - title : "Matcha Seeds"
+    - title : "PASSO 1. ANÁLISE DO ORIGINAL"
       image : "images/material/material-1.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Fazemos uma análise criteriosa do original enviado para investigar não só a qualidade da produção textual como também a viabilidade da edição e seu potencial alcance e desempenho em vendas."
       
     # material item loop
-    - title : "Aloe Vera"
+    - title : "PASSO 2. ESCOLHA DOS MODELOS DE PUBLICAÇÃO"
+      image : "images/material/material-2.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+
+  # material item loop
+    - title : "PASSO 3. PRIMEIRA REVISÃO"
       image : "images/material/material-2.png"
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
       
     # material item loop
-    - title : "Turmeric"
+    - title : "PASSO 4. PAGINAÇÃO"
+      image : "images/material/material-3.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+
+    # material item loop
+    - title : "PASSO 4. CRIAÇÃOD E CAPA"
       image : "images/material/material-3.png"
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
       
     # material item loop
-    - title : "Tulshi leaf"
+    - title : "PASSO 4. APROVAÇÃO DO AUTOR"
       image : "images/material/material-4.png"
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+    
+    # material item loop
+    - title : "PASSO 5. GRÁFICA"
+      image : "images/material/material-4.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+
+    # material item loop
+    - title : "PASSO 6. LIVRO DIGITAL"
+      image : "images/material/material-4.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+
 
 ########################### Advantage #########################
 advantage:
   enable : true
-  title : "Advantages Of Using <br> Our Product"
+  title : "Vantagens de publicar <br> connosco"
   subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
-    - listItem : "Extremely lightweight"
+    - listItem : "Mantença dos direitos autorais"
     - listItem : "Excellent breathability"
     - listItem : "Can increase Cell activation"
     - listItem : "Glowing Skin In 7 Days"
@@ -81,7 +100,7 @@ advantage:
 
 ######################## Promo Video ##########################
 video:
-  enable : true
+  enable : false
   title : "How To Use This Product?"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
@@ -92,14 +111,14 @@ video:
 ######################## Products #############################
 products:
   enable : true
-  title : "Products List"
+  title : "Lançamentos"
   # product item comes from "content/products"
 
 
 ########################## Testimonial ########################
 testimonial:
   enable : true
-  title : "What People Are Saying <br> About Our Product"
+  title : "A opinião dos autores<br> é o que mais importa"
   testimonialItem:
     # testimonial item loop
     - name : "Angelo Perara"
