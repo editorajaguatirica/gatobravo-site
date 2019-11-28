@@ -9,10 +9,10 @@ description : "António Carlos Cortez"
 # product Price
 price: "14.00€"
 priceBefore: "25.00$"
-linkComprar: "
+linkComprar: ""
 
 # Product Short Description
-shortDescription: "Corvos Cobras Chacais' nasceu de uma sequência alargada de poemas em prosa e constituiu um capítulo participante da antologia 'A dor concreta' (ed. Tinta da China) do poeta António Carlos Cortez, em uma prévia de um livro futuro, este que agora se nos apresenta. Bem reconhece Pedro Mexia quando diz que 'depois de Daniel Faria não houve na poesia mais recente em Portugal quem arriscasse em construir um tom elevado e ao mesmo tempo realista e concreto, algo em que Cortez é exímio'. Em 'Corvos Cobras Chacais', Cortez maneja a forma poética para falar de uma forma inesquecível, indelével, daquilo que mais nos assombra: da crueldade da vida e da passividade dos homens."
+shortDescription: "Corvos Cobras Chacais nasceu de uma sequência alargada de poemas em prosa e constituiu um capítulo participante da antologia 'A dor concreta' (ed. Tinta da China) do poeta António Carlos Cortez, em uma prévia de um livro futuro, este que agora se nos apresenta. Bem reconhece Pedro Mexia quando diz que 'depois de Daniel Faria não houve na poesia mais recente em Portugal quem arriscasse em construir um tom elevado e ao mesmo tempo realista e concreto, algo em que Cortez é exímio'. Em 'Corvos Cobras Chacais', Cortez maneja a forma poética para falar de uma forma inesquecível, indelével, daquilo que mais nos assombra: da crueldade da vida e da passividade dos homens."
 
 #product ID
 productID: "1"
