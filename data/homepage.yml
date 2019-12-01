@@ -43,43 +43,43 @@ material:
   materialItem:
     # material item loop
     - title : "PASSO 1. <br>ANÁLISE DO ORIGINAL"
-      image : "images/material/material-2.png"
+      image : "images/material/passo-1.png"
       content : "Fazemos uma análise criteriosa do original enviado para investigar não só a qualidade da produção textual como também a viabilidade da edição e seu potencial alcance e desempenho em vendas."
       
     # material item loop
     - title : "PASSO 2. <br>MODELOS DE PUBLICAÇÃO"
-      image : "images/material/material-2.png"
+      image : "images/material/passo-2.png"
       content : "Em seguida, o autor é convidado a firmar um contrato de edição e escolher entre as diversas modalidades de publicação disponíveis no mercado."
 
   # material item loop
     - title : "PASSO 3. <br>PRIMEIRA REVISÃO"
-      image : "images/material/material-2.png"
+      image : "images/material/passo-3.png"
       content : "A obra então é revista por profissionais especializados - revisores e preparadores - que deixarão o livro pronto para seguir para a fase do design.
 "
       
     # material item loop
     - title : "PASSO 4. <br>PAGINAÇÃO"
-      image : "images/material/material-3.png"
+      image : "images/material/passo-4.png"
       content : "Consolidado o texto final e formatado adequadamente, o livro segue para os profissionais do design que vão criar o projeto gráfico e distribuir o texto nas páginas para garantir legibilidade e harmonia ao texto"
 
     # material item loop
-    - title : "PASSO 4. <br>CRIAÇÃO DE CAPA"
-      image : "images/material/material-3.png"
+    - title : "PASSO 5. <br>CRIAÇÃO DE CAPA"
+      image : "images/material/passo-5.png"
       content : "Em paralelo, o texto também segue para o designer de capa que munido de um briefing irá preparar os primeiros esboços da capa e contracapa seguindo os padrões do mercado para cada tipo de gênero literário."
       
     # material item loop
-    - title : "PASSO 4. <br>APROVAÇÃO DO AUTOR"
-      image : "images/material/material-4.png"
+    - title : "PASSO 6. <br>APROVAÇÃO DO AUTOR"
+      image : "images/material/passo-6.png"
       content : "Os ficheiros do livro são sempre aprovados pelos autores, em consenso com a editora, qualquer que seja o projeto editorial contratado. Os ficheiros do livro seguem para a pré-produção da gráfica após a aprovação integral do autor"
     
     # material item loop
-    - title : "PASSO 5. <br>GRÁFICA"
-      image : "images/material/material-4.png"
+    - title : "PASSO 7. <br>GRÁFICA"
+      image : "images/material/passo-7.png"
       content : "Durante este período, a equipa da editora efetua as últimas correções apontadas pelo setor da pré-produção, acompanha o projeto gráfico e aguarda o transporte da tiragem. Só depois é autorizado o agendamento do lançamento."
 
     # material item loop
-    - title : "PASSO 6. <br>LIVRO DIGITAL"
-      image : "images/material/material-4.png"
+    - title : "PASSO 8. <br>LIVRO DIGITAL"
+      image : "images/material/passo-8.png"
       content : "Depois de o livro estar cadastrado, conforme o projeto editorial escolhido, o mesmo poderá seguir para a criação da versão digital que, por fim, será cadastrada nas plataformas digitais mais prestigiadas do mundo."
 
 
@@ -91,8 +91,8 @@ advantage:
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
-    - listItem : "Mantença dos direitos autorais"
-    - listItem : "Excellent breathability"
+    - listItem : "Atendimento personalizado"
+    - listItem : "Conselho editorial"
     - listItem : "Can increase Cell activation"
     - listItem : "Glowing Skin In 7 Days"
     - listItem : "Increasing Glow Of Face"
