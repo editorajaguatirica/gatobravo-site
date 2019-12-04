@@ -121,22 +121,22 @@ copyright = "| @2019 [Editora Gato Bravo](https://www.editoragatobravo.pt) Todos
   icon = "ti-facebook"
   link = "http://www.fb.com/editoragatobravo"
   
-  [[params.social]]
-  icon = "ti-twitter-alt"
-  link = "#"
+# [[params.social]]
+# icon = "ti-twitter-alt"
+# link = "#"
   
-  [[params.social]]
-  icon = "ti-youtube"
-  link = "#"
+# [[params.social]]
+# icon = "ti-youtube"
+# link = "#"
   
   [[params.social]]
   icon = "ti-instagram"
-  link = "#"
+  link = "https://www.instagram.com/editoragatobravo/"
   
-  [[params.social]]
-  icon = "ti-pinterest"
-  link = "#"
+# [[params.social]]
+#  icon = "ti-pinterest"
+# link = "#"
 
   # Contact Form
   [params.contact]
-  formAction = "#" # contact form works with formspree.io
+  formAction = "https://getform.io/f/866fed9f-eb6d-40da-8eed-ad9ccfaaf36c" # contact form works with formspree.io

@@ -27,12 +27,12 @@ about:
 ###################### Call to action ########################
 cta:
   enable : true
-  title : "Buy one Get One Free Taba Cream"
-  content : "Available for limited time only. Grab one while you still can!"
-  image : "images/cta.png"
+  title : "O vencedor do prêmio Autor 2018"
+  content : "da Editora Gato Bravo."
+  image : "images/mares-de-setembro.png"
   overlayImage : "images/cta-overlay.png"
   button:
-    label : "All Products"
+    label : "Compre aqui"
     link : "products"
 
 ######################## raw material #######################
