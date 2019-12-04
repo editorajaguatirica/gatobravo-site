@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://editoragatobravo.netlify.com"
-languageCode = "en-us"
+languageCode = "pt-BR"
 title = "Editora Gato Bravo"
 theme = "hargo-theme"
 summaryLength = "20"
