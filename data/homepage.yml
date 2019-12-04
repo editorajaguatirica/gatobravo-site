@@ -27,8 +27,8 @@ about:
 ###################### Call to action ########################
 cta:
   enable : true
-  title : "O vencedor do prêmio Autor 2018"
-  content : "da Editora Gato Bravo."
+  title : "Vencedor do prêmio Autor 2018"
+  content : "Um romance na Lisboa antes da Revolução."
   image : "images/mares-de-setembro.png"
   overlayImage : "images/cta-overlay.png"
   button:
