@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hargo | Hugo Ecommerce Site</title>
-    <link>https://examplesite.com/tags/</link>
-    <description>Recent content in Tags on Hargo | Hugo Ecommerce Site</description>
+    <title>Tags on Editora Gato Bravo</title>
+    <link>https://editoragatobravo.netlify.com/tags/</link>
+    <description>Recent content in Tags on Editora Gato Bravo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>pt-BR</language>
     
-	<atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://editoragatobravo.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

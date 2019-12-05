@@ -1,9 +1,10 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Transforme as suas ideias em livros"
-  content : "Publicar nunca foi tão fácil. Encontrar os futuros grandes autores é o desafio da editora Gato Bravo. Apostamos juntos no seu sucesso."
-  image : "images/banner.png"
+  title : "Livros para inspirar"
+  content : "A Gato·Bravo é uma editora independente e produz livros no modo impresso e digital. Publicamos autores autónomos que não encontram espaço nas editoras comerciais, além de literaturas
+brasileira, portuguesa e estrangeira de excelente qualidade."
+  image : "images/people-reading.png"
   # button
   button:
     enable : true
@@ -17,23 +18,21 @@ banner:
 ########################## About ##############################
 about:
   enable : true
-  title : "About Our Product"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren,"
-  image : "images/about.png"
+  title : "Conheça o nosso catálogo"
+  content : "Óptimos autores. Livros excelentes, significativos e belos. Conheça a nossa produção desde 2016 a 2020."
+  image : "images/capa-catalogo1.png"
 
 
 ###################### Call to action ########################
 cta:
   enable : true
-  title : "Vencedor do prêmio Autor 2018"
+  title : "Vencedor do Prémio Autor 2018"
   content : "Um romance na Lisboa antes da Revolução."
   image : "images/mares-de-setembro.png"
   overlayImage : "images/cta-overlay.png"
   button:
     label : "Compre aqui"
-    link : "products"
+    link : "https://www.fnac.pt/Mares-de-Setembro-Pedro-Chambel/a7237031"
 
 ######################## raw material #######################
 material:
@@ -43,76 +42,75 @@ material:
   materialItem:
     # material item loop
     - title : "PASSO 1. <br>ANÁLISE DO ORIGINAL"
-      image : "images/material/passo-1.png"
-      content : "Fazemos uma análise criteriosa do original enviado para investigar não só a qualidade da produção textual como também a viabilidade da edição e seu potencial alcance e desempenho em vendas."
+      image : "products/product-null.png"
+      content : "Fazemos a análise do original enviado para investigar, não só a qualidade do texto, como também a viabilidade da edição, o seu potencial alcance e o estimado desempenho em vendas."
       
     # material item loop
     - title : "PASSO 2. <br>MODELOS DE PUBLICAÇÃO"
-      image : "images/material/passo-2.png"
-      content : "Em seguida, o autor é convidado a firmar um contrato de edição e escolher entre as diversas modalidades de publicação disponíveis no mercado."
+      image : "products/product-null.png"
+      content : "Em seguida, o autor é convidado a firmar um contrato de edição e escolher entre as diversas modalidades de publicação disponíveis."
 
   # material item loop
     - title : "PASSO 3. <br>PRIMEIRA REVISÃO"
-      image : "images/material/passo-3.png"
+      image : "products/product-null.png"
       content : "A obra então é revista por profissionais especializados - revisores e preparadores - que deixarão o livro pronto para seguir para a fase do design.
 "
       
     # material item loop
     - title : "PASSO 4. <br>PAGINAÇÃO"
-      image : "images/material/passo-4.png"
-      content : "Consolidado o texto final e formatado adequadamente, o livro segue para os profissionais do design que vão criar o projeto gráfico e distribuir o texto nas páginas para garantir legibilidade e harmonia ao texto"
+      image : "products/product-null.png"
+      content : "Consolidado o texto final e formatado adequadamente, o livro segue para os profissionais do design que vão criar o projecto gráfico e distribuir o texto nas páginas para garantir legibilidade e harmonia ao texto."
 
     # material item loop
     - title : "PASSO 5. <br>CRIAÇÃO DE CAPA"
-      image : "images/material/passo-5.png"
-      content : "Em paralelo, o texto também segue para o designer de capa que munido de um briefing irá preparar os primeiros esboços da capa e contracapa seguindo os padrões do mercado para cada tipo de gênero literário."
+      image : "products/product-null.png"
+      content : "Em paralelo, a obra também segue para o designer de capa que, munido de um briefing, irá preparar os primeiros esboços da capa e contracapa seguindo os padrões do mercado para cada tipo de género literário."
       
     # material item loop
     - title : "PASSO 6. <br>APROVAÇÃO DO AUTOR"
-      image : "images/material/passo-6.png"
-      content : "Os ficheiros do livro são sempre aprovados pelos autores, em consenso com a editora, qualquer que seja o projeto editorial contratado. Os ficheiros do livro seguem para a pré-produção da gráfica após a aprovação integral do autor"
+      image : "products/product-null.png"
+      content : "Os ficheiros do livro são sempre aprovados pelos autores, em consenso com a editora. Os ficheiros do livro seguem para a pré-produção da gráfica após a aprovação integral do autor."
     
     # material item loop
     - title : "PASSO 7. <br>GRÁFICA"
-      image : "images/material/passo-7.png"
-      content : "Durante este período, a equipa da editora efetua as últimas correções apontadas pelo setor da pré-produção, acompanha o projeto gráfico e aguarda o transporte da tiragem. Só depois é autorizado o agendamento do lançamento."
+      image : "products/product-null.png"
+      content : "Durante este período, a equipa da editora prepara a ficha comercial, efetua as últimas correções apontadas pelo setor da pré-produção, acompanha o projeto gráfico e aguarda o transporte da tiragem. Finalmente, é autorizado o agendamento do lançamento."
 
     # material item loop
     - title : "PASSO 8. <br>LIVRO DIGITAL"
-      image : "images/material/passo-8.png"
-      content : "Depois de o livro estar cadastrado, conforme o projeto editorial escolhido, o mesmo poderá seguir para a criação da versão digital que, por fim, será cadastrada nas plataformas digitais mais prestigiadas do mundo."
+      image : "products/product-null.png"
+      content : "Depois de o livro estar cadastrado, conforme o projeto editorial escolhido, o mesmo poderá seguir para a criação da versão digital que, ao fim, será cadastrada nas plataformas digitais mais prestigiadas do mundo."
 
 
 ########################### Advantage #########################
 advantage:
   enable : true
   title : "Vantagens de publicar <br> connosco"
-  subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
+  subtitle : "Destaque o seu livro junto aos nossos melhores títulos e autores. Publicamos ficção e não-ficção na área de humanidades."
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
     - listItem : "Atendimento personalizado"
-    - listItem : "Conselho editorial"
-    - listItem : "Can increase Cell activation"
-    - listItem : "Glowing Skin In 7 Days"
-    - listItem : "Increasing Glow Of Face"
-    - listItem : "More Beautiful Face Skin"
+    - listItem : "Conselho editorial de excelência"
+    - listItem : "Equipa com profissionais qualificados"
+    - listItem : "Participação em eventos"
+    - listItem : "Inserção em catálogo internacional"
+    - listItem : "Maior destaque para o autor e a sua obra"
 
 
 ######################## Promo Video ##########################
 video:
-  enable : false
-  title : "How To Use This Product?"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
-  videoThumb : "images/video-thumb.jpg"
-  videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+  enable : true
+  title : "Conheça os nossos autores"
+  content : "Incentivamos os nossos autores a criar conteúdos digitais e interactivos para a melhor exposição nos ambientes virtuais e nas redes sociais, de modo a permitir a partilha e assim aumentar a visibilidade e adivulgação da obra."
+  videoThumb : "images/video-leonardoalmeida.png"
+  videoURL : "https://www.youtube.com/embed/ToXpJUU3yDc"
 
 
 ######################## Products #############################
 products:
   enable : true
-  title : "Lançamentos"
+  title : "Destaques"
   # product item comes from "content/products"
 
 
@@ -122,29 +120,29 @@ testimonial:
   title : "A opinião dos autores<br> é o que mais importa"
   testimonialItem:
     # testimonial item loop
-    - name : "Angelo Perara"
-      image : "images/clients/client-1.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+    - name : "Equipa DGLAB"
+      image : "images/clients/client.png" # size 100px*100px
+      designation : "Diretora, Maria do Céu Costa"
+      content : "Nós escolhemos a vossa Editora pela excelência do vosso trabalho."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-    - name : "Riya Ventila"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+    - name : "Rita Dias"
+      image : "images/clients/client.png" # size 100px*100px
+      designation : "Poeta, Autora de O encontro do tempo ternário"
+      content : "ADORO! É isto mesmo! Que lindo!"
       rating : "three" # rating star, one to five
       
     # testimonial item loop
-    - name : "john Doe"
-      image : "images/clients/client-3.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+    - name : "Ronaldo Cagiano"
+      image : "images/clients/client.png" # size 100px*100px
+      designation : "Contista, Autor de Eles não moram mais aqui"
+      content : "Espero que essa parceria possa trazer novo fôlego ao meu trabalho. Creio que as pequenas e médias editoras vêm fazendo a diferença, tanto no Brasil quanto aqui."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-    - name : "Riya Ventila"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+    - name : "Danilo Mendes"
+      image : "images/clients/client.png" # size 100px*100px
+      designation : "Poeta, Poesia da cabeça aos pés"
+      content : "Fiquei e estou muito feliz com todo o retorno que tive do livro. Muito amor por este trabalho!"
       rating : "four" # rating star, one to five
