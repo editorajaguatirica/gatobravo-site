@@ -88,7 +88,7 @@ advantage:
   enable : true
   title : "Vantagens de publicar <br> connosco"
   subtitle : "Destaque o seu livro junto aos nossos melhores títulos e autores. Publicamos ficção e não-ficção na área de humanidades."
-  image : "images/advantage.png"
+  image : "images/advantage_icon.png"
   advantageList:
     # advantage list loop
     - listItem : "Atendimento personalizado"
