@@ -4,7 +4,7 @@ date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-description : "Rafo Dias"
+description : "Rafo Díaz"
 
 # product Price
 price: "14.00 €"
@@ -29,4 +29,6 @@ images:
   - image: "images/products/product-null.png"
 ---
 
-**Sobre os autores**: Rafo Díaz (Peru, 1971) nasceu no meio do mato da Amazónia, cresceu em África, um lugar cheio de espíritos, fantasmas e outros seres estranhos que povoavam as histórias que ouvia de seu pai e avô. Publicou onze livros e foi também responsável pela escrita dos contos e poemas do Relatório anual da UNICEF – Moçambique (2014). Osias André (Moçambique, 1996) nasceu em Maputo. Em 2017 foi o ilustrador convidado na X Bienal Internacional da Arte Suba (Bogotá, Colômbia). Com o escritor Rafo Díaz, colaborou na ilustração de 'O Fogo e a migração dos pássaros de cores' (2016) e neste O coração apaixonado do baobá. Actualmente, o artista vive em Portugal, na Casa do Gaiato de Setúbal.
+**Sobre os autores**: Rafo Díaz (Peru, 1971) nasceu no meio do mato da Amazónia, cresceu em África, um lugar cheio de espíritos, fantasmas e outros seres estranhos que povoavam as histórias que ouvia de seu pai e avô. Publicou onze livros e foi também responsável pela escrita dos contos e poemas do Relatório anual da UNICEF – Moçambique (2014). 
+<br>
+Osias André (Moçambique, 1996) nasceu em Maputo. Em 2017 foi o ilustrador convidado na X Bienal Internacional da Arte Suba (Bogotá, Colômbia). Com o escritor Rafo Díaz, colaborou na ilustração de 'O Fogo e a migração dos pássaros de cores' (2016) e neste O coração apaixonado do baobá. Actualmente, o artista vive em Portugal, na Casa do Gaiato de Setúbal.

@@ -21,6 +21,7 @@ about:
   title : "Conheça o nosso catálogo"
   content : "Óptimos autores. Livros excelentes, significativos e belos. Conheça a nossa produção desde 2016 a 2020."
   image : "images/capa-catalogo1.png"
+  link: ""
 
 
 ###################### Call to action ########################
@@ -42,43 +43,43 @@ material:
   materialItem:
     # material item loop
     - title : "PASSO 1. <br>ANÁLISE DO ORIGINAL"
-      image : "products/product-null.png"
+      image : "images/material/flat-book.png"
       content : "Fazemos a análise do original enviado para investigar, não só a qualidade do texto, como também a viabilidade da edição, o seu potencial alcance e o estimado desempenho em vendas."
       
     # material item loop
     - title : "PASSO 2. <br>MODELOS DE PUBLICAÇÃO"
-      image : "products/product-null.png"
+      image : "images/material/flat-book.png"
       content : "Em seguida, o autor é convidado a firmar um contrato de edição e escolher entre as diversas modalidades de publicação disponíveis."
 
   # material item loop
     - title : "PASSO 3. <br>PRIMEIRA REVISÃO"
-      image : "products/product-null.png"
+      image : "images/material/flat-book.png"
       content : "A obra então é revista por profissionais especializados - revisores e preparadores - que deixarão o livro pronto para seguir para a fase do design.
 "
       
     # material item loop
     - title : "PASSO 4. <br>PAGINAÇÃO"
-      image : "products/product-null.png"
+      image : "images/material/flat-book.png"
       content : "Consolidado o texto final e formatado adequadamente, o livro segue para os profissionais do design que vão criar o projecto gráfico e distribuir o texto nas páginas para garantir legibilidade e harmonia ao texto."
 
     # material item loop
     - title : "PASSO 5. <br>CRIAÇÃO DE CAPA"
-      image : "products/product-null.png"
+      image : "images/material/flat-book.png"
       content : "Em paralelo, a obra também segue para o designer de capa que, munido de um briefing, irá preparar os primeiros esboços da capa e contracapa seguindo os padrões do mercado para cada tipo de género literário."
       
     # material item loop
     - title : "PASSO 6. <br>APROVAÇÃO DO AUTOR"
-      image : "products/product-null.png"
+      image : "images/material/flat-book.png"
       content : "Os ficheiros do livro são sempre aprovados pelos autores, em consenso com a editora. Os ficheiros do livro seguem para a pré-produção da gráfica após a aprovação integral do autor."
     
     # material item loop
     - title : "PASSO 7. <br>GRÁFICA"
-      image : "products/product-null.png"
+      image : "images/material/flat-book.png"
       content : "Durante este período, a equipa da editora prepara a ficha comercial, efetua as últimas correções apontadas pelo setor da pré-produção, acompanha o projeto gráfico e aguarda o transporte da tiragem. Finalmente, é autorizado o agendamento do lançamento."
 
     # material item loop
     - title : "PASSO 8. <br>LIVRO DIGITAL"
-      image : "products/product-null.png"
+      image : "images/material/flat-book.png"
       content : "Depois de o livro estar cadastrado, conforme o projeto editorial escolhido, o mesmo poderá seguir para a criação da versão digital que, ao fim, será cadastrada nas plataformas digitais mais prestigiadas do mundo."
 
 
@@ -102,7 +103,7 @@ advantage:
 video:
   enable : true
   title : "Conheça os nossos autores"
-  content : "Incentivamos os nossos autores a criar conteúdos digitais e interactivos para a melhor exposição nos ambientes virtuais e nas redes sociais, de modo a permitir a partilha e assim aumentar a visibilidade e adivulgação da obra."
+  content : "Incentivamos os nossos autores a criar conteúdos digitais e interactivos para a melhor exposição nos ambientes virtuais e nas redes sociais, de modo a permitir a partilha e assim aumentar a visibilidade e a divulgação da obra."
   videoThumb : "images/video-leonardoalmeida.png"
   videoURL : "https://www.youtube.com/embed/ToXpJUU3yDc"
 

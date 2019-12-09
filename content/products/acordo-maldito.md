@@ -1,5 +1,5 @@
 ---
-title: "Acordo Maldito"
+title: "Acordo maldito"
 date: 2019-11-30T11:22:16+06:00
 draft: false
 
@@ -31,4 +31,4 @@ images:
   - image: "images/products/product-null.png"
 ---
 
-*Sobre a autora*: Susana Dias reside e trabalha em Lisboa como administrativa numa faculdade de engenharias. Amante da poesia e da escrita, que já teve um livro publicado, aventura-se agora com uma história de ficção, o romance "Acordo maldito" e encontra-se já a desenvolver novos trabalhos nessas áreas. Outra das suas paixões é a pintura cujas obras a óleo e em acrílico, algumas delas com a aplicação glow in the dark, têm sido expostas em diversos locais na Grande Lisboa.
+**Sobre a autora**: Susana Dias reside e trabalha em Lisboa como administrativa numa faculdade de engenharias. Amante da poesia e da escrita, que já teve um livro publicado, aventura-se agora com uma história de ficção, o romance "Acordo maldito" e encontra-se já a desenvolver novos trabalhos nessas áreas. Outra das suas paixões é a pintura cujas obras a óleo e em acrílico, algumas delas com a aplicação glow in the dark, têm sido expostas em diversos locais na Grande Lisboa.

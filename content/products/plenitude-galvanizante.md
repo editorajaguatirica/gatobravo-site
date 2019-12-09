@@ -29,4 +29,4 @@ images:
   - image: "images/products/product-null.png"
 ---
 
-*Sobre o autor*: João Gorgulho é João Silveira Botelho de Sousa Gorgulho, nascido em Lisboa em 1995, em uma tradicional família alfacinha. Estudou na Escola Alemã de Lisboa e foi admitido na Universidade Técnica da Renânia Norte-Westfália, na cidade de Aquisgrana, onde vive e estuda Medicina. Adepto da filosofia, interessou-se pela escrita e estreia como romancista com este livro Plenitude galvanizante, ganhador do prémio Autor 2018 pela Editora Gato-Bravo.
+**Sobre o autor**: João Gorgulho é João Silveira Botelho de Sousa Gorgulho, nascido em Lisboa em 1995, em uma tradicional família alfacinha. Estudou na Escola Alemã de Lisboa e foi admitido na Universidade Técnica da Renânia Norte-Westfália, na cidade de Aquisgrana, onde vive e estuda Medicina. Adepto da filosofia, interessou-se pela escrita e estreia como romancista com este livro Plenitude galvanizante, ganhador do prémio Autor 2018 pela Editora Gato-Bravo.
