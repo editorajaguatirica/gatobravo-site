@@ -19,7 +19,7 @@ brasileira, portuguesa e estrangeira de excelente qualidade."
 about:
   enable : true
   title : "Conheça o nosso catálogo"
-  content : "Óptimos autores. Livros excelentes, significativos e belos. Conheça a nossa produção desde 2016 a 2020."
+  content : "Ótimos autores. Livros excelentes, significativos e belos. Conheça a nossa produção desde 2016 a 2020."
   image : "images/capa-catalogo1.png"
   link: ""
 
@@ -49,7 +49,7 @@ material:
     # material item loop
     - title : "PASSO 2. <br>MODELOS DE PUBLICAÇÃO"
       image : "images/material/flat-book.png"
-      content : "Em seguida, o autor é convidado a firmar um contrato de edição e escolher entre as diversas modalidades de publicação disponíveis."
+      content : "Em seguida, o autor é convidado a assinar um contrato de edição e escolher entre as diversas modalidades de publicação disponíveis."
 
   # material item loop
     - title : "PASSO 3. <br>PRIMEIRA REVISÃO"
@@ -60,12 +60,12 @@ material:
     # material item loop
     - title : "PASSO 4. <br>PAGINAÇÃO"
       image : "images/material/flat-book.png"
-      content : "Consolidado o texto final e formatado adequadamente, o livro segue para os profissionais do design que vão criar o projecto gráfico e distribuir o texto nas páginas para garantir legibilidade e harmonia ao texto."
+      content : "Consolidado o texto final e formatado adequadamente, o livro segue para os profissionais do design que vão criar o projeto gráfico e distribuir o texto nas páginas para garantir legibilidade e harmonia ao texto."
 
     # material item loop
     - title : "PASSO 5. <br>CRIAÇÃO DE CAPA"
       image : "images/material/flat-book.png"
-      content : "Em paralelo, a obra também segue para o designer de capa que, munido de um briefing, irá preparar os primeiros esboços da capa e contracapa seguindo os padrões do mercado para cada tipo de género literário."
+      content : "Em paralelo, a obra também segue para o designer de capa que, devidamente orientado, fará os primeiros esboços da capa e contracapa seguindo os padrões do mercado para cada tipo de género literário."
       
     # material item loop
     - title : "PASSO 6. <br>APROVAÇÃO DO AUTOR"
@@ -80,7 +80,7 @@ material:
     # material item loop
     - title : "PASSO 8. <br>LIVRO DIGITAL"
       image : "images/material/flat-book.png"
-      content : "Depois de o livro estar cadastrado, conforme o projeto editorial escolhido, o mesmo poderá seguir para a criação da versão digital que, ao fim, será cadastrada nas plataformas digitais mais prestigiadas do mundo."
+      content : "Depois de o livro estar cadastrado, conforme o projeto editorial escolhido, o mesmo poderá seguir para a criação da versão e-book que, no final, será cadastrada nas plataformas digitais mais prestigiadas do mundo."
 
 
 ########################### Advantage #########################
