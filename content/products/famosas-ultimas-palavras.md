@@ -7,7 +7,7 @@ draft: false
 description : "Luís Filipe Cristóvão"
 
 # product Price
-price: "12.00€"
+price: "12.00 €"
 priceBefore: "25.00$"
 linkComprar: "https://www.fnac.pt/Famosas-Ultimas-Palavras-Luis-Filipe-Cristovao/a1446293"
 

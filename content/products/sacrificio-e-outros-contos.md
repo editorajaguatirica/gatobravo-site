@@ -7,7 +7,7 @@ draft: false
 description : "Francisco de Morais Mendes"
 
 # product Price
-price: "12.00€"
+price: "12.00 €"
 priceBefore: "25.00$"
 linkComprar: ""
 

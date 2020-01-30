@@ -7,7 +7,7 @@ draft: false
 description : "António Carlos Cortez"
 
 # product Price
-price: "14.00€"
+price: "14.00 €"
 priceBefore: "25.00$"
 linkComprar: "https://www.fnac.pt/Corvos-Cobras-Chacais-Antonio-Carlos-Cortez/a1446295"
 

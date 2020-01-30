@@ -7,7 +7,7 @@ draft: false
 description : "Jorge Ortiz Robla"
 
 # product Price
-price: "14.00€"
+price: "14.00 €"
 priceBefore: "25.00$"
 linkComprar: "https://www.fnac.pt/A-Linguagem-da-Luz-Jorge-Ortiz-Robla/a4833988"
 

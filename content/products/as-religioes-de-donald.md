@@ -7,7 +7,7 @@ draft: false
 description : "Ricardo Brehm"
 
 # product Price
-price: "14.00€"
+price: "14.00 €"
 priceBefore: "25.00$"
 linkComprar: "https://www.fnac.pt/livre-numerique/a6661329/As-religioes-secretas-de-Donald-Trump"
 

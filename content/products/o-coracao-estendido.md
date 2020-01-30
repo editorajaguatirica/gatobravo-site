@@ -7,7 +7,7 @@ draft: false
 description : "Fernando Machado Silva"
 
 # product Price
-price: "12.00€"
+price: "12.00 €"
 priceBefore: "25.00$"
 linkComprar: "https://www.fnac.pt/O-Coracao-Estendido-Pela-Cidade-Fernando-Machado-Silva/a1446294"
 

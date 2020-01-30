@@ -7,7 +7,7 @@ draft: false
 description : "Ronaldo Cagiano"
 
 # product Price
-price: "14.00€"
+price: "14.00 €"
 priceBefore: "25.00$"
 linkComprar: "https://www.fnac.pt/Eles-Nao-Moram-Mais-Aqui-Ronaldo-Cagiano/a1613763"
 

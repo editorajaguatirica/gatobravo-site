@@ -7,7 +7,7 @@ draft: false
 description : "Gregorio Muelas Bermúdez"
 
 # product Price
-price: "14.00€"
+price: "14.00 €"
 priceBefore: "25.00$"
 linkComprar: "https://www.fnac.pt/livre-numerique/a7008796/Estado-de-acedia"
 

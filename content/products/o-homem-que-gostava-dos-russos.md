@@ -7,9 +7,9 @@ draft: false
 description : "Rafael Bassi"
 
 # product Price
-price: "indisponível"
+price: "12.00 €"
 priceBefore: ""
-linkComprar: ""
+linkComprar: "https://europresseditora.pt/livraria-online/o-homem-que-gostava-dos-russos/"
 
 
 # Product Short Description

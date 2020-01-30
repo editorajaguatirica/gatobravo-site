@@ -7,7 +7,7 @@ draft: false
 description : "António Ramalho"
 
 # product Price
-price: "14.00€"
+price: "14.00 €"
 priceBefore: "25.00$"
 linkComprar: "https://www.fnac.pt/Mulher-Antonio-Ramalho/a5888166"
 

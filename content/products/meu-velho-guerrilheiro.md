@@ -7,8 +7,8 @@ draft: false
 description : "Álvaro Filho"
 
 # product Price
-price: "14.00$"
-priceBefore: "25.00$"
+price: "14.00 €"
+priceBefore: "25.00 €"
 linkComprar: "https://www.fnac.pt/Meu-Velho-Guerrilheiro-Alvaro-Filho/a6264346"
 
 # Product Short Description

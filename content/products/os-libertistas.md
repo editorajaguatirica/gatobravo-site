@@ -7,8 +7,8 @@ draft: false
 description : "Diana Brígida Correia"
 
 # product Price
-price: "14.00$"
-priceBefore: ""
+price: "14.00 €"
+priceBefore: "25.00 €"
 linkComprar: "https://europresseditora.pt/livraria-online/os-libertistas/"
 
 

@@ -7,8 +7,8 @@ draft: false
 description : "Leonardo Almeida Filho"
 
 # product Price
-price: "16.00$"
-priceBefore: "25.00$"
+price: "16.00 €"
+priceBefore: "25.00 €"
 linkComprar: "https://www.fnac.pt/mp18222748/Grande-Mar-Oceano"
 
 

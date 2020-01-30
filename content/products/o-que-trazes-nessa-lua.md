@@ -7,7 +7,7 @@ draft: false
 description : "Carlos J. Maria G."
 
 # product Price
-price: "18.00€"
+price: "18.00 €"
 priceBefore: "25.00$"
 linkComprar: "https://www.fnac.pt/O-Que-Trazes-Nessa-Lua-Carlos-J/a7146030"
 

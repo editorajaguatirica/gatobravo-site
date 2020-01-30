@@ -7,7 +7,7 @@ draft: false
 description : "Patrícia Maia Noronha"
 
 # product Price
-price: "12.00$"
+price: "12.00 €"
 priceBefore: "25.00$"
 linkComprar: "https://www.fnac.pt/O-Elo-Invisivel-Patricia-Maia-Noronha/a6841874#omnsearchpos=1"
 

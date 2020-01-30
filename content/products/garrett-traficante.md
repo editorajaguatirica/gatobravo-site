@@ -7,7 +7,7 @@ draft: false
 description : "António Carlos Cortez"
 
 # product Price
-price: "14.00€"
+price: "14.00 €"
 priceBefore: "25.00$"
 linkComprar: "https://www.fnac.pt/Garrett-Traficante-de-Escravos-Gairo-Garreto/a7157720"
 

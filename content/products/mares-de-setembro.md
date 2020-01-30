@@ -7,8 +7,8 @@ draft: false
 description : "Pedro Chambel"
 
 # product Price
-price: "16.00$"
-priceBefore: "25.00$"
+price: "16.00 €"
+priceBefore: "25.00 €"
 linkComprar: "https://www.fnac.pt/Mares-de-Setembro-Pedro-Chambel/a7237031"
 
 

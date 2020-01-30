@@ -7,7 +7,7 @@ draft: false
 description : "Caio Yurgel"
 
 # product Price
-price: "14.00€"
+price: "14.00 €"
 priceBefore: "25.00$"
 linkComprar: "https://www.fnac.pt/As-Noites-de-Hong-Kong-sao-Feitas-de-Neon-Caio-Yurgel/a7237032"
 

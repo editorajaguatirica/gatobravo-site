@@ -7,7 +7,7 @@ draft: false
 description : "João Gorgulho"
 
 # product Price
-price: "20.00$"
+price: "14.00 €"
 priceBefore: ""
 linkComprar: "https://www.wook.pt/livro/plenitude-galvanizante-joao-gorgulho/23625884"
 
