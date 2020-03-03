@@ -8,7 +8,7 @@ description : "António Carlos Cortez"
 
 # product Price
 price: "15.00 €"
-priceBefore: "25.00 €"
+priceBefore: ""
 linkComprar: "#"
 
 

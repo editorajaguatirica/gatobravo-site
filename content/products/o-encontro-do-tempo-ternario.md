@@ -7,7 +7,7 @@ draft: false
 description : "Ana Dalma"
 
 # product Price
-price: "indisponível"
+price: "15.00 €"
 priceBefore: ""
 linkComprar: "#"
 
