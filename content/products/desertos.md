@@ -7,7 +7,7 @@ draft: false
 description : "Rui Carvalho"
 
 # product Price
-price: "4.90 €"
+price: "ebook: 4.90 €"
 priceBefore: "49.00$"
 linkComprar: "https://www.wook.pt/ebook/desertos-rui-jose-carvalho/23977123"
 

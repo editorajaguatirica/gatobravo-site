@@ -19,7 +19,7 @@ brasileira, portuguesa e estrangeira de excelente qualidade."
 about:
   enable : true
   title : "Conheça o nosso catálogo"
-  content : "Ótimos autores. Livros excelentes, significativos e belos. Conheça a nossa produção desde 2016 a 2020."
+  content : "Ótimos autores. Livros excelentes, significativos e belos. Conheça a nossa produção desde 2016 a 2020. Consulte o catálogo online em: www.issuu.com/editoragatobravo"
   image : "images/capa-catalogo1.png"
   link: "images/CatalogoGB_2019.pdf"
 
@@ -123,27 +123,42 @@ testimonial:
     # testimonial item loop
     - name : "Equipa DGLAB"
       image : "images/clients/client.png" # size 100px*100px
-      designation : "Diretora, Maria do Céu Costa"
+      designation : "Maria do Céu Costa, Diretora"
       content : "Nós escolhemos a vossa Editora pela excelência do vosso trabalho."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Rita Dias"
       image : "images/clients/client.png" # size 100px*100px
-      designation : "Poeta, Autora de O encontro do tempo ternário"
+      designation : "Poeta, autora de O encontro do tempo ternário"
       content : "ADORO! É isto mesmo! Que lindo!"
+      rating : "five" # rating star, one to five
+
+    # testimonial item loop
+    - name : "Anabela Brígida"
+      image : "images/clients/client.png" # size 100px*100px
+      designation : "Escritora, autora de Os libertistas"
+      content : "Estamos muito felizes! É mais do que estávamos à espera! E somos gratos á Paula e Gato Bravo!"
+      rating : "four" # rating star, one to five
+
+    # testimonial item loop
+    - name : "Paulo Scott"
+      image : "images/clients/client.png" # size 100px*100px
+      designation : "Poeta, autor de Se o mundo é redondo e outros poemas"
+      content : "O livro está belíssimo, mesmo. Muito obrigado."
       rating : "three" # rating star, one to five
+
       
     # testimonial item loop
     - name : "Ronaldo Cagiano"
       image : "images/clients/client.png" # size 100px*100px
-      designation : "Contista, Autor de Eles não moram mais aqui"
-      content : "Espero que essa parceria possa trazer novo fôlego ao meu trabalho. Creio que as pequenas e médias editoras vêm fazendo a diferença, tanto no Brasil quanto aqui."
+      designation : "Contista, autor de Eles não moram mais aqui"
+      content : "Espero que essa parceria possa trazer novo fôlego ao meu trabalho. Creio que as pequenas e médias editoras vêm fazendo a diferença."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Danilo Mendes"
       image : "images/clients/client.png" # size 100px*100px
-      designation : "Poeta, Poesia da cabeça aos pés"
+      designation : "Poeta, autor de Poesia da cabeça aos pés"
       content : "Fiquei e estou muito feliz com todo o retorno que tive do livro. Muito amor por este trabalho!"
       rating : "four" # rating star, one to five

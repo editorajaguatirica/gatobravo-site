@@ -1,6 +1,6 @@
 ---
 title: "O encontro do tempo ternário"
-date: 2020-01-30T11:22:16+06:00
+date: 2020-05-26T11:22:16+06:00
 draft: false
 
 # meta description

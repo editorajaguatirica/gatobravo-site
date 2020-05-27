@@ -1,13 +1,13 @@
 ---
 title: "Um imigrante brasileiro em Londres - vol. 2"
-date: 2011-11-28T10:37:16+03:00
+date: 2020-05-17T10:37:16+03:00
 draft: false
 
 # meta description
 description : "J. Nascimento"
 
 # product Price
-price: "4.99 €"
+price: "ebook: 4.99 €"
 priceBefore: "25.00$"
 linkComprar: "https://www.amazon.com/imigrante-brasileiro-Londres-Enfrentando-Portuguese-ebook/dp/B083JF4J98/"
 

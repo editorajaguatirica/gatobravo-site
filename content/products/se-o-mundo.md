@@ -1,13 +1,13 @@
 ---
 title: "Se o mundo é redondo e outros poemas"
-date: 2019-11-30T11:22:16+06:00
+date: 2020-05-27T11:22:16+06:00
 draft: false
 
 # meta description
 description : "Paulo Scott"
 
 # product Price
-price: "no prelo: 14.00 €"
+price: "prelo: 14.00 €"
 priceBefore: "25.00$"
 linkComprar: "#"
 
