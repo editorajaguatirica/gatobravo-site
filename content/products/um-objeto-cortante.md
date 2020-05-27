@@ -15,7 +15,7 @@ linkComprar: "https://www.fnac.pt/Um-Objecto-Cortante-Alexandra-Maia/a7319834"
 shortDescription: "Um objecto corta, entre margem de sorriso e margem de nervo, a nossa paz de ler sem sermos tocados. Aqui os objectos escritos, descritos, falados, propostos — tocam. E pode doer. — Ondjaki"
 
 #product ID
-productID: "2"
+productID: "32"
 
 # type must be "products"
 type: "products"

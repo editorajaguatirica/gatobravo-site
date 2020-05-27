@@ -12,7 +12,7 @@ priceBefore: "25.00$"
 linkComprar: "https://www.amazon.com/imigrante-brasileiro-Londres-Enfrentando-Portuguese-ebook/dp/B083JF4J98/"
 
 # Product Short Description
-shortDescription: "No segundo livro da trilogia Um imigrante brasileiro em Londres, João pergunta-se: viver na Inglaterra era um sonho, ou seria apenas um capricho?  Neste livro João conta o que acontece com a sua alegria, a sua inocência e a vontade de vencer os muitos obstáculos que um imigrante enfrenta na cidade mais desejada do mundo. Com muitas dúvidas e algumas certezas, João lutará contra todas as adversidades possíveis e terá a sua fé testada ao limite."
+shortDescription: "No segundo livro da trilogia 'Um imigrante brasileiro em Londres', João pergunta-se: viver na Inglaterra era um sonho, ou seria apenas um capricho?  Neste livro João conta o que acontece com a sua alegria, a sua inocência e a vontade de vencer os muitos obstáculos que um imigrante enfrenta na cidade mais desejada do mundo. Com muitas dúvidas e algumas certezas, João lutará contra todas as adversidades possíveis e terá a sua fé testada ao limite."
 
 #product ID
 productID: "3"

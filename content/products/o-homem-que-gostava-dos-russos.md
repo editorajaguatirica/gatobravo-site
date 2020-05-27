@@ -9,7 +9,7 @@ description : "Rafael Bassi"
 # product Price
 price: "12.00 €"
 priceBefore: ""
-linkComprar: "https://europresseditora.pt/livraria-online/o-homem-que-gostava-dos-russos/"
+linkComprar: "https://www.wook.pt/livro/o-homem-que-gostava-dos-russos-rafael-bassi/23625883"
 
 
 # Product Short Description
