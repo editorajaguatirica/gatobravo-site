@@ -9,7 +9,7 @@ description : "Diana Brígida Correia"
 # product Price
 price: "14.00 €"
 priceBefore: "25.00 €"
-linkComprar: "https://europresseditora.pt/livraria-online/os-libertistas/"
+linkComprar: "https://www.wook.pt/livro/os-libertistas-diana-brigida-correia/22338177"
 
 
 # Product Short Description

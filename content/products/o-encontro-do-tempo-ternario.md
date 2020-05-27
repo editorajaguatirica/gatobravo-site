@@ -7,9 +7,9 @@ draft: false
 description : "Ana Dalma"
 
 # product Price
-price: "15.00 €"
+price: "15.00 € / 4.49 €"
 priceBefore: ""
-linkComprar: "#"
+linkComprar: "https://www.wook.pt/ebook/o-encontro-do-tempo-ternario-ana-dalma/23796114"
 
 
 # Product Short Description

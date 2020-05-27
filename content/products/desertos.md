@@ -7,9 +7,9 @@ draft: false
 description : "Rui Carvalho"
 
 # product Price
-price: "indisponível"
+price: "4.90 €"
 priceBefore: "49.00$"
-linkComprar: ""
+linkComprar: "https://www.wook.pt/ebook/desertos-rui-jose-carvalho/23977123"
 
 # Product Short Description
 shortDescription: "A pena poética de Rui José Carvalho propõe-se discorrer habilmente sobre a imagem do fotógrafo António Caeiro, numa obra que explora os recantos subjetivos da primeira pessoa. 'Desertos', com a Folha de Sala de Paulo José Miranda, apresenta-nos uma díade que causa uma vertigem no texto. A imagem falaria por si só, mas o texto traduz para palavras uma atmosfera indizível — assim acontece o encontro do poeta com o fotógrafo. Rui José Carvalho caminha por três vielas estreitas que convergem naturalmente para uma estrada comum: a poesia que é prosa, que é ensaio, que é absoluta poesia. O recorte fotográfico de António Caeiro inspira a crueza deserta da lente humana, isolando pormenores estáticos a nu, que provocam pelo canto do olho a crueza da alma do leitor, a quem resta absorver de um trago uma dupla inevitável."

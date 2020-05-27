@@ -9,7 +9,7 @@ description : "Pedro F. Ribeiro"
 # product Price
 price: "14.00 €"
 priceBefore: "25.00$"
-linkComprar: ""
+linkComprar: "https://www.wook.pt/livro/a-irmandade-pedro-f-ribeiro/23625881"
 
 # Product Short Description
 shortDescription: "No livro A Irmandade – ameaça global, a aventura policial criada pelo escritor Pedro F. Ribeiro, acompanhamos a história do pequeno Lucas que, aos doze anos, sofre uma tragédia em família. Todos são mortos e ele é o único sobrevivente. Quem o acolhe é Hércules, que o leva para ser treinado e para crescer dentro do rigor militar de uma força clandestina, a Irmandade. A equipa compunha-se de Hércules, Prometeus, Atlas e o seu mais recente integrante, Lucas. Todos eles eram igualmente marcados pela violência e buscavam fazer justiça com as próprias mãos. Acompanhado, em maior parte, pelo seu mentor, Lucas lutará contra as suas emoções e a sua natureza, enquanto lida com as ameaças, neste romance de sangue, suor e lágrimas."

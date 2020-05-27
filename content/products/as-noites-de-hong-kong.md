@@ -9,7 +9,7 @@ description : "Caio Yurgel"
 # product Price
 price: "14.00 €"
 priceBefore: "25.00$"
-linkComprar: "https://www.fnac.pt/As-Noites-de-Hong-Kong-sao-Feitas-de-Neon-Caio-Yurgel/a7237032"
+linkComprar: "https://www.wook.pt/livro/as-noites-de-hong-kong-sao-feitas-de-neon-caio-yurgel/23539212"
 
 # Product Short Description
 shortDescription: "A baía de Hong Kong,  a fronteira do Brasil com a Argentina, Polónia, a Casa do Sol: contos que ziguezagueiam entre o lá e o aqui, cerzindo passado e presente, os temores e o desejo. Os contos e ensaios do autor Caio Yurgel, um brasileiro atualmente a morar na China, já foram publicados em três idiomas, receberam prémios no Brasil e foram indicados a outros na Alemanha e em Portugal. O livro As noites de Hong Kong são feitas de neon, o seu segundo trabalho de ficção, foi selecionado como finalista pelo Prémio Autor 2018."

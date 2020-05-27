@@ -1,5 +1,5 @@
 ---
-title: "Poética com dicção: 16 poetas brasileiros para ler hoje"
+title: "Poética com dicção..."
 date: 2020-01-30T11:22:16+06:00
 draft: false
 
@@ -9,7 +9,7 @@ description : "António Carlos Cortez"
 # product Price
 price: "15.00 €"
 priceBefore: ""
-linkComprar: "#"
+linkComprar: "https://www.wook.pt/livro/poetica-com-diccao-antonio-carlos-cortez/23912379"
 
 
 # Product Short Description
