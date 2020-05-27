@@ -15,7 +15,7 @@ linkComprar: "https://www.fnac.pt/Mulher-Antonio-Ramalho/a5888166"
 shortDescription: "O livro Mulher, do escritor, médico e poeta António Pereira Ramalho traz uma colecção de poemas dedicados à mulher na sua essência, naquilo que é, e que só ela representa. Há, nas poesias de António Ramalho, traços de histórias de um tempo e de um lugar, no toque da paixão que sente o coração do poeta. Pelos versos do poema, pode-se amar o que ela é, e o que não é; pode-se amar a quem diz saber a direcção para tentar sempre, o rosto que se oferece sempre aberto aos demais, a partilha de uma luz que acontece quando menos se espera."
 
 #product ID
-productID: "3"
+productID: "16"
 
 # type must be "products"
 type: "products"

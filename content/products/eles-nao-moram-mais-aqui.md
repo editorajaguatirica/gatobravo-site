@@ -15,7 +15,7 @@ linkComprar: "https://www.wook.pt/livro/eles-nao-moram-mais-aqui-ronaldo-cagiano
 shortDescription: "Eles não moram mais aqui, o 17o. livro do autor Ronaldo Cagiano, reúne dezasseis contos escritos ao longo de nove anos. Publicado em 2015 no seu país natal, o livro ganhou o Prémio Jabuti de 2016, um dos mais importantes prémios literários nacionais do Brasil. Nesta obra é possível encontrar belas referências aos grandes nomes da literatura mundial, como James Joyce, Rainer Maria Rilke, e especialmente da literatura brasileira, como Clarice Lispector, Nuno Ramos, Mário Faustino e Marçal Aquino. O texto de Cagiano não é descanso, não é placidez, não é um passeio de domingo em jardins floridos. A sua beleza está, justamente, no seu estilo bruto, na dissecação de dores e tormentas. Como o crítico, poeta e escritor André di Bernardi sugere, ao ler Cagiano damo-nos conta da fúria do tempo e de que somos literalmente tragados diante do fluxo furioso da vida."
 
 #product ID
-productID: "3"
+productID: "8"
 
 # type must be "products"
 type: "products"

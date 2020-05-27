@@ -15,7 +15,7 @@ linkComprar: "https://www.fnac.pt/Famosas-Ultimas-Palavras-Luis-Filipe-Cristovao
 shortDescription: "O poema sem o corte do verso. Este é o melhor modo de apresentar a poesia de Luís Filipe Cristóvão. O poeta de escrita prolífica, tem 38 anos de palavras acumuladas na cabeça, já publicou mais de sete livros em Portugal e no Brasil, e obriga o leitor a investigar a sua própria identidade, sua noção de pertencimento, como também a identidade do poema. Luís Filipe mexe com nossa antecipação leitora, rompe com nosso ritmo, obriga-nos a pensar. Em Famosas últimas palavras, depois de uma grande pausa desde 2009, Luís Filipe volta a escrever com um sabor próprio de despedida, com o cheiro característico da maresia a envolver suas palavras."
 
 #product ID
-productID: "3"
+productID: "10"
 
 # type must be "products"
 type: "products"

@@ -16,7 +16,7 @@ linkComprar: "https://www.wook.pt/ebook/o-encontro-do-tempo-ternario-ana-dalma/2
 shortDescription: "A poesia de Ana Dalma nos apresenta um novo olhar para o percurso da vida de uma mulher. Com apresentação de José Luís Peixoto, a autora exibe toda uma existência retratada a partir da sensação, da impressão e da emoção suscitadas a cada situação vivenciada por ela. O amor e as frustrações que dele podem se originar, o desejo, a maternidade, o envelhecimento, o fim, etapas que farão parte da vida de todas as mu-lheres são descritas primorosamente em 'O encontro do tempo ternário'."
 
 #product ID
-productID: "15"
+productID: "20"
 
 # type must be "products"
 type: "products"

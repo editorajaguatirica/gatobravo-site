@@ -15,7 +15,7 @@ linkComprar: "https://www.amazon.com/imigrante-brasileiro-Londres-entrevista-Por
 shortDescription: "A trilogia 'Um imigrante brasileiro em Londres' apresenta a história de João do Nascimento, um baiano bem-humorado que trabalha em um aeroporto e sente que a sua vida o espera fora do Brasil. No primeiro livro, com o panorama da infância e adolescência carentes de bens materiais, mas cheias de amor e entendimento familiar, João conta a sua trajetória, desde Salvador, sua terra natal,  até o balcão da zona de imigração de Londres, onde um oficial de fronteiras testará os limites da sua coragem e da sua fé no futuro."
 
 #product ID
-productID: "3"
+productID: "29"
 
 # type must be "products"
 type: "products"

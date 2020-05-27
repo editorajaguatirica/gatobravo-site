@@ -17,7 +17,7 @@ Lia vem revelar uma história frequente, mas que é, ao mesmo tempo, apenas su
 Um encontro que parecia leve e despretensioso, moderno e progressista, vem atrelado a questionamentos íntimos e profundos, de uma protagonista e narradora que nos conta, na primeira pessoa, em jeito de confissão informal, uma revolução interior, dolorosa e densa, que viveu ao longo de quatro anos e que termina num desabafo catártico e tão desesperadamente humano."
 
 #product ID
-productID: "2"
+productID: "3"
 
 # type must be "products"
 type: "products"

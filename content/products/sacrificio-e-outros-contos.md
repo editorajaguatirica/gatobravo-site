@@ -15,7 +15,7 @@ linkComprar: "https://www.wook.pt/livro/sacrificio-e-outros-contos-francisco-de-
 shortDescription: "Um homem capaz de encontrar dinheiro no chão, a atriz que encanta o público apenas com uma leitura silenciosa, o poeta que desperta a paixão na mulher amada com as palavras. Talentos que poderiam ser verdadeiras dádivas tornam-se um peso para os personagens de Sacrifício e outros contos, do contista brasileiro premiado Francisco de Morais Mendes. Seus personagens, sempre presos em conflitos, dúvidas e contradições, vivem encontros inesperados. Em dez histórias, com um toque fantástico e desfechos imprevisíveis, Francisco de Morais Mendes traz ao leitor surpresa e arrebatamento com um estilo único de narrar."
 
 #product ID
-productID: "3"
+productID: "26"
 
 # type must be "products"
 type: "products"

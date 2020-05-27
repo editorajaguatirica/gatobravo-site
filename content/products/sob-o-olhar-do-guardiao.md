@@ -15,7 +15,7 @@ linkComprar: "https://www.fnac.pt/mp18222749/Sob-o-olhar-do-guardiao"
 shortDescription: "Um segredo que a Igreja Católica quer proteger a qualquer custo, a verdadeira história de Maria Madalena, seus seguidores e seu amado mestre Jesus, fúria, assassinatos, perigo, paixão e uma viagem no tempo. Um mistério protegido pelos Cavaleiros do Templo de Salomão de Jerusalém, mais conhecidos como Cavaleiros Templários, que envolve a história da construção da estátua do Cristo Redentor, no Rio de Janeiro. Uma longa jornada que começa com investigações no Brasil e atravessa Paris e Israel, numa narrativa cheia de adrenalina, cenas inimagináveis em um verdadeiro coquetel de emoções. O escritor brasileiro Juca Serrado nos conduz de maneira sedutora pelo tempo do início dos Templários e nos abraça num romance contemporâneo apaixonante, uma obra de ficção meticulosa e fascinante."
 
 #product ID
-productID: "2"
+productID: "28"
 
 # type must be "products"
 type: "products"

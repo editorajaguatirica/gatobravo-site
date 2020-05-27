@@ -15,7 +15,7 @@ linkComprar: "https://www.wook.pt/livro/o-coracao-apaixonado-do-baoba-rafo-diaz/
 shortDescription: "O coração apaixonado do baobá reúne sete histórias narradas pelo escritor peruano Rafo Díaz e ilustradas pelo artista moçambicano Osias André. Os contos são inspirados nos inúmeros mitos africanos sobre a árvore do baobá, também chamada de embondeiro, uma árvore gigante, sagrada, lendária e secular, cercada de mistérios e muita magia."
 
 #product ID
-productID: "5"
+productID: "17"
 
 # type must be "products"
 type: "products"

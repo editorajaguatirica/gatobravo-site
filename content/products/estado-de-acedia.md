@@ -15,7 +15,7 @@ linkComprar: "https://www.fnac.pt/livre-numerique/a7008796/Estado-de-acedia"
 shortDescription: "Estado de acédia faz eco da sensação de agrura que produz um mundo infestado de desigualdades e injustiças e onde abundam os sentimentos de nostalgia e de melancolia. Os poemas aqui reunidos partilham, pois, uma mesma vocação de crítica social, mas através dum olhar culturalista, porque a poesia é uma arma carregada de esperança. Esta nova obra de Gregorio Muelas apaga limites em todos os sentidos. No da tradição poética, ao não romper com o passado e assumir registos diferentes, no formal [...], mas também na fusão dos conteúdos. Assim, encontramos Antonio Machado (evocado no título de Caminhos sobre o mar) para negar as fronteiras marinhas e territoriais; voltamos à herança cultural grega (O sonho de Ítaca) para mostrar-nos a tragédia da imigração; e o leitor avisado notará a presença tácita de Anna Ajmátova (Casas de Fontaka), que foi testemunha do assédio alemão na janela da sua residência numa dessas casas junto ao canal do Neva em Leninegrado."
 
 #product ID
-productID: "3"
+productID: "9"
 
 # type must be "products"
 type: "products"

@@ -15,7 +15,7 @@ linkComprar: "https://www.fnac.pt/Meu-Velho-Guerrilheiro-Alvaro-Filho/a6264346"
 shortDescription: "Uma narrativa carregada de tempo, de memórias sobre os ombros, corpos enferrujados com cheiro de maresia, um testemunho de histórias de lembranças incertas. O romance \"Meu velho guerrilheiro\" conta a história de um escritor autoexilado no estrangeiro que retorna à cidade natal (Olinda), a pedido da mãe, para tentar demover o pai da ideia de matar o presidente, que assumiu o poder após um golpe. Álvaro Filho nos ensina que é preciso \"silêncio para ouvir o vento\", tempo para entender a afetividade de lugares e coisas, calma para engolir desconfortos, e sabedoria para compreender nossa ancestralidade. \"Meu velho guerrilheiro\" é como um sólido recife que se desmancha no ar e o vento a varrer carne, osso, sangue, papel e tinta."
 
 #product ID
-productID: "8"
+productID: "15"
 
 # type must be "products"
 type: "products"

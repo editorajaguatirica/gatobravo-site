@@ -16,7 +16,7 @@ linkComprar: "https://www.fnac.pt/mp18222748/Grande-Mar-Oceano"
 shortDescription: "Lisboa, 1760: por entre os escombros do Grande Terremoto, um cais oferece aventuras e, quem sabe, um futuro melhor. Rio de Janeiro, anos 1970: sob a vigília do regime militar, a busca por respostas no passado. Dois séculos de histórias — de pessoas e de povos — a cruzar o Grande Mar Oceano."
 
 #product ID
-productID: "9"
+productID: "12"
 
 # type must be "products"
 type: "products"

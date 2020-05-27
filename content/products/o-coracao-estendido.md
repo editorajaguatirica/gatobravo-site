@@ -15,7 +15,7 @@ linkComprar: "https://www.fnac.pt/O-Coracao-Estendido-Pela-Cidade-Fernando-Macha
 shortDescription: "Fernando Machado Silva conclui que estes poemas não tratam de Lisboa, nem de Berlim. Estes poemas são as notas de rodapé, ou a legenda de um guia que um viajante pudesse ler ao passear por uma ou outra cidade. São um certo tipo de legenda ou nota de um estranho mapa. As duas cidades são a moldura e a paisagem, enquanto os poemas, inseridos ou nelas projectados, são uma dança de palavras e afectos ocorridos. É por isso que o livro não poderia ter um fim, sempre algo lhe juntaria, acrescentaria, pois a viagem da existência é infinita. Como um flanêur, desenrolando-se em Lisboa e Berlim, os poemas de Silva falam de partidas e chegadas, de encontros e desencontros, em um mundo de eterno movimento, impetuoso, que chega aos olhos, passeia por dentro, flui ao redor do corpo e atravessa pelas mãos em escritos invisíveis à percepção alheia."
 
 #product ID
-productID: "3"
+productID: "18"
 
 # type must be "products"
 type: "products"

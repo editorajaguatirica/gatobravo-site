@@ -15,7 +15,7 @@ linkComprar: "https://www.fnac.pt/Garrett-Traficante-de-Escravos-Gairo-Garreto/a
 shortDescription: "Com base em extensa pesquisa feita em arquivos e bibliotecas de três países, o ensaio biográfico de Gairo Garreto analisa a trajetória de Antônio Garrett, que deixou os Açores e foi para o Maranhão, onde acabou se dedicando ao comércio de escravos no fim do século XVIII. O autor partiu das memórias do avô para registrar a história da própria família, por meio das variantes do sobrenome, mas acabou reproduzindo com riqueza de detalhes uma parte pouco conhecida da história do Brasil. Em Garrett, traficante de escravos, não faltam percalços, aventuras, e até mesmo um sobrinho abolicionista, o que dá mais sabor à narrativa e reforça a importância, não apenas do protagonista, mas da família Garrett em diversos eventos íbero-americanos até a primeira metade do século XIX."
 
 #product ID
-productID: "3"
+productID: "11"
 
 # type must be "products"
 type: "products"

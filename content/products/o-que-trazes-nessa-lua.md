@@ -15,7 +15,7 @@ linkComprar: "https://www.fnac.pt/O-Que-Trazes-Nessa-Lua-Carlos-J/a7146030"
 shortDescription: "Uma mulher e um homem no século XXI. Consumos e fruições, tribalismos e certezas do mundo convencionado é que se dispõem a trocar por ambientalismo, cumplicidade, liberdade… Dois espíritos livres querem uma vida meritória. Um a acreditar que as suas aprendizagens sobre epigenética, identificando diversidades estruturantes nas pessoas, originam uma compreensão mútua tão revolucionária como enriquecedora. O outro com pena que isso não lhe seja verossímil, ora desconfia interessando-se, ora interessa-se desconfiando. O autor, hipnotizado por estas personagens, rendido à cândida convicção de uma e ao ceticismo esperançoso da outra, tenta oferecer-lhes o entrelace das potencialidades de diferentes estilos narrativos — romance, poesia, ensaio —, acreditando que a honestidade é o melhor caminho para a conciliação num renovado planeta de afectos. Sem sensorialidades inconsequentes, sem pontos de vista privilegiados, sem narrações paternalistas... sem distrações! Em O que trazes nessa Lua? Dois epigenótipos, uma utopia, são as personagens que averiguam se a consciência emergente dos nossos díspares instintos é um caminho seguro para finalmente tornarmos razoáveis os limites do que podemos ser."
 
 #product ID
-productID: "3"
+productID: "22"
 
 # type must be "products"
 type: "products"

@@ -16,7 +16,7 @@ linkComprar: "https://www.wook.pt/livro/o-homem-que-gostava-dos-russos-rafael-ba
 shortDescription: "Rafael Bassi professa a fé nas narrativas. Mas sem perder o chão. Sabe que toda literatura deve fazer parte da vida, e que não se aprende a pedir um chorizo lendo Proust. Suas histórias se passam em Buenos Aires, Paris, Porto Alegre, Curitiba. Nelas, gente célebre como Borges e Cortázar, Stálin e Putin, Coetzee e Anna Comnena, se mistura a uma galeria comovente de anônimos: um engenheiro fugido da Rússia, um suicida ferroviário, uma família unida na hora de se livrar de um cadáver, um enfermeiro sádico. Todos vivem a iminência de uma mudança. Esperam por algo, grandioso ou não, que lhes sirva de destino."
 
 #product ID
-productID: "7"
+productID: "21"
 
 # type must be "products"
 type: "products"

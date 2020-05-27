@@ -15,7 +15,7 @@ linkComprar: "https://www.wook.pt/ebook/medo-de-mim-filipe-ricardo/23371627"
 shortDescription: "O autor filipe-ricardo escreve um conto que é breve, vagaroso, mas que por vezes tem o poder de nos dilacerar e ferir pela sua inocente verdade. Ele narra o corte brutal que a sociedade faz aos nossos sonhos, à nossa capacidade de fugir e sonhar. Como o autor escreve: Perdem-se os sonhos; perde-se a solidão perscrutante, e perdem-se as centelhas da vida. Francisca perdeu-se a si própria e perdeu tudo aquilo que a distinguia dos outros que tinha à sua volta. de vez. numa só vez. a terra engoliu-a."
 
 #product ID
-productID: "3"
+productID: "14"
 
 # type must be "products"
 type: "products"

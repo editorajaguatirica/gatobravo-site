@@ -16,7 +16,7 @@ linkComprar: "https://www.wook.pt/livro/os-libertistas-diana-brigida-correia/223
 shortDescription: "Tudo começou em Paris, no ano de 1980. Comunidades que defendiam teorias filosóficas começaram por existir apenas em França, depois da morte de Jean-Paule Sartre. Não demorou muito tempo até se propagarem por toda a Europa, com um objetivo de as defender, mas da pior maneira. \"Estamos condenados à liberdade\" é a frase de Jean-Paul Sartre que anunciava, num folheto, a Comunidade Libertista. Nestas comunidades, propagam-se teorias filosóficas que se defendem da pior maneira. Quando Nicole e Matilde sugerem aos amigos juntarem-se a uma das Comunidades, o que todos aceitam, começa o primeiro dia da fase mais difícil da vida deles. A cada momento a sua liberdade vai-se esgueirando por entre dedos que ficam cada vez mais presos e ligados ao rigor de um exército. Avizinham-se momentos de grande tensão, a clamar por uma importante decisão do grupo."
 
 #product ID
-productID: "7"
+productID: "23"
 
 # type must be "products"
 type: "products"

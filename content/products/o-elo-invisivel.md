@@ -16,7 +16,7 @@ linkComprar: "https://www.fnac.pt/O-Elo-Invisivel-Patricia-Maia-Noronha/a6841874
 shortDescription: "Existe quase sempre um elo, um aro, um anel, uma fotografia, um medalhão... objeto ou ideia que nos liga a algo ou a alguém. Afinal, não somos nós gregários e elementos da tribo? De uma qualquer tribo, a qual e por vezes, apenas acidental e circunstancialmente integramos, mal conhecendo o(s) outro(s) e a ele(a) nos ligando por um qualquer fio condutor geralmente por demais invisível ao olhar e sentir do outro elo. O da união. Do comum. Da partilha. (...) A escrita é limpa. Depurada. Despojada de adereços mas fulgente como a vida. A vida sem concessões."
 
 #product ID
-productID: "6"
+productID: "19"
 
 # type must be "products"
 type: "products"

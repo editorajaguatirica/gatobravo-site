@@ -15,7 +15,7 @@ linkComprar: "https://www.fnac.pt/livre-numerique/a6661329/As-religioes-secretas
 shortDescription: "Em 2016 Donald Trump foi considerado a personalidade do ano pela revista Time. Alvo de duras críticas, o magnata americano acabou por ser eleito Presidente dos Estados Unidos no mesmo ano. Agora, imaginemos que esse acontecimento pudesse estar predestinado por forças ocultas que atravessaram séculos e que dominam a consciência do atual governante, seu herdeiro. Verdade? Imaginação? Profetização? Teoria da conspiração? Apocalipse? Seria mesmo Donald Trump o anti-Cristo, ou um líder que foi pressentido há centenas de anos? É difícil discernir a ficção da realidade neste livro sombrio e desconcertante. O português Ricardo Brehm dá conta de refletir sobre coincidências históricas e elementos místicos que colocam o presidente americano Donald Trump no epicentro de uma tradição milenar de conquistas de poder através do contato com o Divino, da qual fizeram também parte o filósofo e matemático René Descartes, a Ordem dos Jesuítas ou o teólogo João Calvino."
 
 #product ID
-productID: "3"
+productID: "5"
 
 # type must be "products"
 type: "products"
