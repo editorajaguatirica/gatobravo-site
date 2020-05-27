@@ -4,7 +4,7 @@ date: 2011-11-28T10:37:16+03:00
 draft: false
 
 # meta description
-description : "António Carlos Cortez"
+description : "Gairo Garreto"
 
 # product Price
 price: "14.00 €"
