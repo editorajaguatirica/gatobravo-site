@@ -7,9 +7,9 @@ draft: false
 description : "Tobias G. Alte"
 
 # product Price
-price: "prelo: 15.00 €"
-priceBefore: "#"
-linkComprar: "#"
+price: "15.00 €"
+priceBefore: "15.00 €"
+linkComprar: "https://www.wook.pt/livro/os-bastidores-da-verdade-tobias-g-alte/24258745"
 
 
 # Product Short Description
