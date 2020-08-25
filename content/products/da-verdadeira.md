@@ -1,6 +1,6 @@
 ---
 title: "Da verdadeira Índia"
-date: 2020-08-19T11:22:16+06:00
+date: 2020-07-19T11:22:16+06:00
 draft: false
 
 # meta description
